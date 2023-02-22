@@ -1,4 +1,4 @@
 ## django_jwt
-simplejwt
-AbstractBaseUser
+simplejwt<p> 
+AbstractBaseUser<p>
 BaseUserManager
